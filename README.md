@@ -1,9 +1,10 @@
 - Hi 👋, I’m **Dhruv Varshney**
-- A passionate Data Science Enthusiast
-- 🔭 I’m currently working on **Python**, **Power BI**, **SQL**, **EDA**, and **ML Projects** 
+- A passionate Data Enthusiast
+- 📫 You can contact me at https://www.linkedin.com/in/dhruvvarshney07
+- 🔭 I’m currently working as Data Analyst at Taxtron Technologies Pvt. Ltd.
+- 🔭 I’m working with **Python**, **Power BI**, **SQL**, **EDA**, and **ML Projects** 
 - 🌱 I’m currently learning **Machine Learning**, **Deep Learning**
-- 👀 I’m interested in Data Science, Machine Learning, and Data Analyst role
-- 📫 How to reach me https://www.linkedin.com/in/dhruvvarshney07
+- 🤝 I'm open to collaborating on anything that consumes data.
 
 <!---
 dhruv2497/dhruv2497 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
