@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Data Analyst at Taxtron Technologies Pvt. Ltd.**
 - 🔭 I’m working with **Python, Power BI, SQL, EDA, and ML Projects**
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+- 🌱 I’m currently learning **Machine Learning**
 - 📫 You can contact me at **https://www.linkedin.com/in/dhruvvarshney07**
 - 🤝 I'm open to collaborating on **anything that covers data.**
 
