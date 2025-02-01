@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhruv Varshney</h1>
-<h3 align="center">A passionate Data Enthusiast</h3>
+<h3 align="center">A passionate Data Analyst and Scientist</h3>
 
+- 🌱 I’m currently learning **Advanced Machine Learning Techniques and Neural networks**
 - 🔭 I’m currently working as **Data Analyst at Taxtron Technologies Pvt. Ltd.**
-- 🔭 I’m working with **Python, Power BI, SQL, EDA, and ML Projects**
-- 🌱 I’m currently learning **Machine Learning**
-- 📫 You can contact me at **https://www.linkedin.com/in/dhruvvarshney07**
-- 🤝 I'm open to collaborating on **anything that covers data.**
+- 🔭 Ask me about **Data Science, Machine Learning, SQL, Power BI, Python**
+- 📫 How to reach me: **dhruv.varshney2407@gmail.com** | **https://www.linkedin.com/in/dhruvvarshney07**
+- ⚡ Fun fact: **I love extracting insights from messy data and creating interactive dashboards and training ML models!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
