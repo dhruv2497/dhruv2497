@@ -52,16 +52,3 @@ I am a **Data Analyst** with **1.8+ years of experience** in transforming comple
 - Team Collaboration
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruv2497&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv2497&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
-
-<!---
-dhruv2497/dhruv2497 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
