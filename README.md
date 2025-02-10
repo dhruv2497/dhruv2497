@@ -16,7 +16,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a **Data Analyst** with **1.8+ years of experience** in transforming complex and large datasets into actionable insights. I specialize in **Python, SQL, Power BI, and Machine Learning**, with a proven track record of optimizing data workflows and driving business decisions. I am passionate about **data visualization, exploratory data analysis (EDA), and feature engineering** to deliver impactful results.
+I am a **Data Analyst** with **2 years of experience** in transforming complex and large datasets into actionable insights. I specialize in **Python, SQL, Power BI, and Machine Learning**, with a proven track record of optimizing data workflows and driving business decisions. I am passionate about **data visualization, exploratory data analysis (EDA), and feature engineering** to deliver impactful results.
 
 - 🌱 **Currently Learning:** Advanced Machine Learning Techniques and Neural Networks.
 - 🔭 **Currently Working:** Data Analyst at **Taxtron Technologies Pvt. Ltd.**
